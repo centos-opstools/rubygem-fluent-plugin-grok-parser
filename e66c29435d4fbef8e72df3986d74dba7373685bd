@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8c0949_940bcc2a",
+        "filename": "rubygem-fluent-plugin-grok-parser.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 80
+      },
+      "writtenOn": "2017-07-28T07:11:26Z",
+      "side": 1,
+      "message": "could you please add the actual test call? Are there any more test dependencies?",
+      "revId": "e66c29435d4fbef8e72df3986d74dba7373685bd",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
